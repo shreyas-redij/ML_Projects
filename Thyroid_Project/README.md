@@ -1,4 +1,4 @@
-Wafer Fault Detection
+**Wafer Fault Detection**
 	
 The inputs of various sensors for different wafers have been provided. 
 	

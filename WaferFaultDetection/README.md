@@ -8,3 +8,5 @@ The goal is to build a machine learning model which predicts whether a wafer nee
   
 +1 means that the wafer is in a working condition and it doesn’t need to be replaced.
 -1 means that the wafer is faulty and it needs to be replaced. 
+
+![Test Image 1](https://github.com/shreyas-redij/ML_Projects/blob/master/Images/Architechture.JPG)
